@@ -144,10 +144,10 @@ border: 0;
        }
        .contactTitle img{
            position: absolute;
-           width: 250px;
+           width: 240px;
            left: 10px;
            z-index: -1;
-           top:-20px;
+           top:-10px;
        }
        .contactMain{
         flex-direction: column;
@@ -177,14 +177,16 @@ border: 0;
         gap: 12px;
         margin: 12px 0px;
         }
-
+.right label{
+    font-size: 20px;
+}
         .right input{
             background-color: #32323C;
             color: #A0A0A0;
             width: 290px;
             padding-left: 20px;
-            height: 70px;
-            font-size: 22px;
+            height: 60px;
+            font-size: 20px;
             border-radius: 4px;
             outline: none;
             font-family: Outfit;

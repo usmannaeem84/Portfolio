@@ -156,7 +156,7 @@ border: 0;
         justify-content: center;
        }
        .left{
-        width: 80%;
+        width: 90%;
        }
 
        .left h1{
@@ -181,7 +181,7 @@ border: 0;
         .right input{
             background-color: #32323C;
             color: #A0A0A0;
-            width: 320px;
+            width: 290px;
             padding-left: 20px;
             height: 70px;
             font-size: 22px;
@@ -196,7 +196,7 @@ border: 0;
             .right textarea{
             background-color: #32323C;
             color: #A0A0A0;
-            width: 320px;
+            width: 290px;
             padding: 12px 0px;
             font-family: Outfit;
             padding-left: 10px;

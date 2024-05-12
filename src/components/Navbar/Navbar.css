@@ -78,7 +78,7 @@ ul{
   align-items: flex-start;
   padding: 30px 20px;
   z-index: 4;
-  width: 300px;
+  width: 250px;
   gap: 50px;
   right: -400px;
   transition: right 0.3s ease-in;
@@ -102,7 +102,6 @@ ul li{
   justify-content: center;
   align-items: center;
   gap: 12px;
- 
   font-size: 25px;
 }
 .navbar{

@@ -95,9 +95,9 @@
     
     }
     .heroInfo h1{
-        font-size: 40px;
+        font-size: 38px;
   text-align: center;
-  width: 90%;
+  width: 95%;
 }
 .heroInfo p{
     margin: 12px 0px;
@@ -107,15 +107,16 @@
         line-height: 30px;
     }
     .hBtn1 {
-        padding: 15px 20px;
-     
+        padding: 12px 20px;
+        font-size: 18px;
     }
     .hBtn2 {
-        padding: 15px 30px;
+        padding: 12px 20px;
+        font-size: 18px;
      }
 
     .heroButtons{ 
-        gap: 15px;
+        gap: 10px;
     } 
     
 }

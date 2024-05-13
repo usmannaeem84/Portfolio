@@ -95,6 +95,7 @@ right: 20px;
 .openMenu{
   display: flex;
   margin-right: -80px;
+  height: 23px;
   
 }
 ul li{

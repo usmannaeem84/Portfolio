@@ -1,5 +1,6 @@
 import React from 'react'
 import profile from "../../assets/Profile.jpg"
+import cv from "../../assets/pdf/cv.pdf"
 import "./Hero.css"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
@@ -21,8 +22,11 @@ function Hero() {
         <AnchorLink className='anchor' offset={50} href="#Contact">
           <button className="hBtn1">Connect With me</button>
         </AnchorLink>
+        
+        <a href={cv} download="Muhammad_Usman_CV.pdf">
+          <button className="hBtn2">My resume</button>
+        </a>
 
-        <button className="hBtn2">My resume</button>
       </div>
 
 

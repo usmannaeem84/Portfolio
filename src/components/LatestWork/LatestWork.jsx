@@ -21,9 +21,6 @@ function LatestWork() {
             <div key={index} className="Lwork">
               <img  src={work.w_img} alt="" />
               <div className="buttons">
-              <a   href={work.w_code} target='_blank'>
-                <button className="btn1">Code</button>
-              </a>
               <a href={work.w_live}>
                 <button className="btn2">Live demo</button>
               </a>

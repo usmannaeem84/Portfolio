@@ -1,5 +1,6 @@
 .aboutLeft img {
     height: 400px;
+    width: 270px;
     border-radius: 5px;
 }
 
@@ -99,6 +100,10 @@ width: 90%;
 height: 100px;
 }
 
+.prof{
+    width: 500px;
+    height: 100px;
+}
 
 @media (max-width:768px) {
    

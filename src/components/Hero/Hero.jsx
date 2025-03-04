@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from "../../assets/Profile.jpg"
+import profile from "../../assets/Profile1.jpg"
 import cv from "../../assets/pdf/cv.pdf"
 import "./Hero.css"
 import AnchorLink from 'react-anchor-link-smooth-scroll'

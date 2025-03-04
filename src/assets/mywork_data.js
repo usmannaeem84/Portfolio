@@ -18,7 +18,7 @@ const mywork_data = [
     },
     {
         w_code:"https://github.com/usmannaeem84/SpotifyClone",
-        w_live:"https://usmannaeem84.github.io/SpotifyClone/",
+        w_live:"https://food-order-five-chi.vercel.app/",
         w_img:project3_img
     },
     {
